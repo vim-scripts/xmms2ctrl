@@ -1,0 +1,21 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2832
+
+A plugin to control XMMS2 from vim using nyxmms2.  It is released under GPLv2
+
+It has the following features
+
+    * toggle play/pause
+    * add track to playlist
+    * remove track from playlist
+    * previous track
+    * next track
+    * stop playing
+    * clear playlist
+    * seek through songs or goto specific time in a song
+    * change volume
+    * show current song playing
+    * jump to specific track in playlist
+    * load xmms2 playlist
+    * list all xmms2 playlists
+    * remove xmms2 playlist
+    * set config options in xmms2 
